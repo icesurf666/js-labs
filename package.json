@@ -1,0 +1,11 @@
+{
+  "name": "itmo_js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Pavel Kazantsev",
+  "license": "MIT",
+  "dependencies": {
+    "goss_proto": "^1.0.0",
+    "ramda": "^0.27.1"
+  }
+}
