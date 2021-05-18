@@ -10,4 +10,13 @@ while (!isNill(current)) {
   current = Object.getPrototypeOf(current)
 }
 
+// names.forEach(item => {
+//   const list = document.createElement('ul')
+//   const node = document.createElement('li')
+//   node.innerText = item
+//   list.appendChild(node)
+// })
+// const root = document.getElementById('root')
+// root.append(list)
+
 export { names }
